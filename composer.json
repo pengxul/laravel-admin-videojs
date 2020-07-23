@@ -7,7 +7,7 @@
     "license": "MIT",
     "authors": [{
         "name": "peter peng",
-        "email": "peterpengxl@gmai.com"
+        "email": "peterpengxl@gmail.com"
     }],
     "require": {
         "php": ">=7.0.0",

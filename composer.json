@@ -1,16 +1,13 @@
 {
-    "name": "laravel-admin-ext/video",
-    "description": "description...",
-    "type": "library",
-    "keywords": ["laravel-admin", "extension"],
-    "homepage": "https://github.com/laravel-admin-ext/video",
+    "name": "laravel-admin-videojs",
+    "description": "video js extends laravel admin",
+    "keywords": ["laravel-admin", "videojs"],
+    "homepage": "https://github.com/pengxul/laravel-admin-videojs",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "your name",
-            "email": "your email"
-        }
-    ],
+    "authors": [{
+        "name": "peter peng",
+        "email": "peterpengxl@gmai.com"
+    }],
     "require": {
         "php": ">=7.0.0",
         "encore/laravel-admin": "~1.6"
